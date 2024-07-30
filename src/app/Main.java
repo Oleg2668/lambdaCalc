@@ -4,9 +4,7 @@ import java.util.function.Supplier;
 
 public class Main {
 
-    static  StringManipulator manipulatorString;
 
-static String output;
     public static void main(String[] args) {
 
         MathOperation operationMath1=new MathOperation() {
